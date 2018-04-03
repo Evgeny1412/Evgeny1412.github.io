@@ -6,7 +6,7 @@
 <br>
 Регистрация в GitHub.com
 <br>
-Создание репозитория VarvariucA.github.io
+Создание репозитория Evgeny1412.github.io
 <br>
 Создание и заполнение файла index.html (часы+текст+ссылки)
 <br>
@@ -17,6 +17,6 @@
 <br>
 Полезные ссылки:
 <br>
-Гитхаб: [Ссылка](https://github.com/VarvariucA/VarvariucA.github.io)
+Гитхаб: [Ссылка](https://github.com/Evgeny1412/Evgeny1412.github.io)
 <br>
-Личная страница: [Ссылка](https://VarvariucA.github.io)
+Личная страница: [Ссылка](https://Evgeny1412.github.io)
